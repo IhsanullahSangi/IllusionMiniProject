@@ -1,11 +1,10 @@
 # IllusionMiniProject
 
 Requirements
-
 Pycharm IDE
 
-How to Run
-
+            How to Run
+            
 1. Copy the link (Which is given in the Report)
 2. goto Pycharm then 
 3. goto VCS (in Menu Bar) >>
